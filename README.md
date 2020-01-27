@@ -7,3 +7,5 @@ Using this tool, visually impaired people can use their hands as a substitute fo
 
 
 Items used in the demonstration are: empty plastic bottle, open macbook lid, iPhone, 
+
+[![Demo](https://img.youtube.com/vi/kYM6hiMoBj0/0.jpg)](https://www.youtube.com/watch?v=kYM6hiMoBj0)
